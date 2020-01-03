@@ -7,8 +7,3 @@ npm run start
 ``` js
 npm run build
 ```
-
-### 构建过程请访问
-```
-https://setcina.github.io 
-```
